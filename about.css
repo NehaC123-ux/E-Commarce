@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+  }
+  
+  .navbar {
+    padding: 15px 0;
+  }
+  
+  .navbar-brand img {
+    height: 40px;
+  }
+  
+  .nav-link {
+    color: #000;
+    font-weight: 500;
+    margin-right: 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+
+.hero-section {
+    background-image: url("assets/disg5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    color: #ffffff;
+    padding: 100px 20px;
+    text-align: left;
+    
+}
